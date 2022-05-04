@@ -8,6 +8,7 @@ public class BancklineApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BancklineApiApplication.class, args);
+		
 	}
 
 }
